@@ -13,4 +13,5 @@
 
 - Alexandros Delitzas, et al. [SceneFun3D:  Fine-Grained Functionality and Affordance Understanding in 3D Scenes](https://openaccess.thecvf.com/content/CVPR2024/papers/Delitzas_SceneFun3D_Fine-Grained_Functionality_and_Affordance_Understanding_in_3D_Scenes_CVPR_2024_paper.pdf). CVPR, 2024.  
 - Songyou Peng, et al. [OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/pdf/2211.15654). CVPR, 2023.
+- Yining Hong, et al. [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/pdf/2307.12981). NeurIPS, 2023.  
 - Yicong Hong, et al. [Learning Navigational Visual Representations with Semantic Map Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Learning_Navigational_Visual_Representations_with_Semantic_Map_Supervision_ICCV_2023_paper.pdf#:~:text=Inspired%20by%20the%20behavior%20that%20hu-mans%20naturally%20build). ICCV, 2023.  
