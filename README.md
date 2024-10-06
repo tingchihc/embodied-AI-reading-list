@@ -1,7 +1,8 @@
 # scene-representation
 
 1. [NeRF](#nerf)  
-2. [3D scene representation](#3d-scene-rep)  
+2. [3D scene representation](#3d-scene-rep)
+3. [LLM agents](#llm-agent)
 
 ## NeRF  
 <a name="nerf"></a>
@@ -15,3 +16,8 @@
 - Songyou Peng, et al. [OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/pdf/2211.15654). CVPR, 2023.
 - Yining Hong, et al. [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/pdf/2307.12981). NeurIPS, 2023.  
 - Yicong Hong, et al. [Learning Navigational Visual Representations with Semantic Map Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Learning_Navigational_Visual_Representations_with_Semantic_Map_Supervision_ICCV_2023_paper.pdf#:~:text=Inspired%20by%20the%20behavior%20that%20hu-mans%20naturally%20build). ICCV, 2023.  
+
+## LLM agents
+<a name="llm-agent"></a>
+
+- Runsen Xu, et al. [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/pdf/2308.16911). ECCV, 2024.  
