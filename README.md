@@ -20,4 +20,5 @@
 ## LLM agents
 <a name="llm-agent"></a>
 
-- Runsen Xu, et al. [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/pdf/2308.16911). ECCV, 2024.  
+- Runsen Xu, et al. [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/pdf/2308.16911). ECCV, 2024.
+- Qingyun Wu, et al. [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations](https://openreview.net/attachment?id=BAakY1hNKS&name=pdf). COLM, 2024
