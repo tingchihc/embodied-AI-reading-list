@@ -4,7 +4,7 @@
 1. [NeRF](#nerf)  
 2. [3D scene representation](#3d-scene-rep)
 3. [LLM agents](#llm-agent)
-4. [Text-to-image](#t2i)  
+4. [Text-to-image/video](#t2iv)  
 
 ## NeRF  
 <a name="nerf"></a>
@@ -26,10 +26,10 @@
 - Qingyun Wu, et al. [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations](https://openreview.net/attachment?id=BAakY1hNKS&name=pdf). COLM, 2024  
 - Runsen Xu, et al. [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/pdf/2308.16911). ECCV, 2024.  
 
-## Text to image
-<a name="t2i"></a>
+## Text to image/video
+<a name="t2iv"></a>
 
 - Abhay Zala, et al. [DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning](https://openreview.net/attachment?id=NV8yRJRET1&name=pdf). COLM, 2024
-
+- Han Lin, et al. [VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning](https://openreview.net/attachment?id=sKNIjS2brr&name=pdf), COLM, 2024.
 
 
