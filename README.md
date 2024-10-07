@@ -4,6 +4,7 @@
 1. [NeRF](#nerf)  
 2. [3D scene representation](#3d-scene-rep)
 3. [LLM agents](#llm-agent)
+4. [Text-to-image](#t2i)  
 
 ## NeRF  
 <a name="nerf"></a>
@@ -24,4 +25,11 @@
 - Tianhua Tao, et al. [CRYSTAL: Illuminating LLM Abilities on Language and Code](https://openreview.net/attachment?id=kWnlCVcp6o&name=pdf). COLM, 2024
 - Qingyun Wu, et al. [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations](https://openreview.net/attachment?id=BAakY1hNKS&name=pdf). COLM, 2024  
 - Runsen Xu, et al. [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/pdf/2308.16911). ECCV, 2024.  
+
+## Text to image
+<a name="t2i"></a>
+
+- Abhay Zala, et al. [DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning](https://openreview.net/attachment?id=NV8yRJRET1&name=pdf). COLM, 2024
+
+
 
