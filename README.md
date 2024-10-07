@@ -4,7 +4,8 @@
 1. [NeRF](#nerf)  
 2. [3D scene representation](#3d-scene-rep)
 3. [LLM agents](#llm-agent)
-4. [Text-to-image/video](#t2iv)  
+4. [Text-to-image/video](#t2iv)
+5. [Auto driving](#auto-drive)  
 
 ## NeRF  
 <a name="nerf"></a>
@@ -32,4 +33,7 @@
 - Abhay Zala, et al. [DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning](https://openreview.net/attachment?id=NV8yRJRET1&name=pdf). COLM, 2024.
 - Han Lin, et al. [VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning](https://openreview.net/attachment?id=sKNIjS2brr&name=pdf), COLM, 2024.
 
+## Auto driving
+<a name="auto-drive"></a>
 
+- Jiageng Mao, et al. [A Language Agent for Autonomous Driving](https://openreview.net/attachment?id=UPE6WYE8vg&name=pdf). COLM, 2024.  
