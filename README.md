@@ -1,4 +1,4 @@
-# Outline  
+# Table of Contents  
 1. [NeRF](#nerf)  
 2. [3D scene representation](#3d-scene-rep)
 3. [LLM agents](#llm-agent)
