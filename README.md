@@ -12,6 +12,7 @@ Topic 5: <b>[Learning about Auto driving](#auto-drive)</b>
   <summary><b>Topic 1: Learning about 3D reconstruction and scene rendering</b><a name="nerf"></a></summary>
   <ul>
     <li>(arxiv) Yuqi Zhang, et al. Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Feature. <a href="https://arxiv.org/pdf/2303.03003">📚</a> <a href="https://zyqz97.github.io/GP_NeRF/">🌍</a> </li>  
+    <li>(ICLR'24) Francis Engelmann, et al. OpenNeRF: OpenSet 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views. <a href="https://arxiv.org/pdf/2404.03650">📚</a> <a href="https://github.com/opennerf/opennerf">🌍</a> </li>  
   </ul>
 </details>
 
