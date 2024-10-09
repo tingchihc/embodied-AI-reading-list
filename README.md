@@ -22,6 +22,7 @@ Topic 5: <b>[Learning about Auto driving](#auto-drive)</b>
     <li>(CVPR'23) Songyou Peng, et al. OpenScene: 3D Scene Understanding with Open Vocabularies. <a href="https://arxiv.org/pdf/2211.15654">📚</a> <a href="https://pengsongyou.github.io/openscene">🌍</a> </li>  
     <li>(NeurIPS'23) Yining Hong, et al. 3D-LLM: Injecting the 3D World into Large Language Models. <a href="https://arxiv.org/pdf/2307.12981">📚</a> <a href="https://vis-www.cs.umass.edu/3dllm/">🌍</a> </li>  
     <li>(ICCV'23) Yicong Hong, et al. Learning Navigational Visual Representations with Semantic Map Supervision. <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Learning_Navigational_Visual_Representations_with_Semantic_Map_Supervision_ICCV_2023_paper.pdf#:~:text=Inspired%20by%20the%20behavior%20that%20hu-mans%20naturally%20build">📚</a> <a href="https://github.com/YicongHong/Ego2Map-NaViT">🌍</a> </li>  
+    <li>(NeurIPS'23) Ayça Takmaz, et al. OpenMask3D: Open-Vocabulary 3D Instance Segmentation. <a href="https://arxiv.org/pdf/2306.13631">📚</a> <a href="https://openmask3d.github.io/">🌍</a> </li>  
   </ul>
 </details>
 
