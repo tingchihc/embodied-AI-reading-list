@@ -49,6 +49,6 @@ Topic 5: <b>[Learning about Auto driving](#auto-drive)</b>
   <summary><b>Topic 5: Learning about Auto driving</b><a name="auto-drive"></a></summary>
   <ul>
     <li>(COLM'24) Jiageng Mao, et al. A Language Agent for Autonomous Driving.<a href="https://openreview.net/attachment?id=UPE6WYE8vg&name=pdf">📚</a> <a href="https://usc-gvl.github.io/Agent-Driver/">🌍</a> </li>  
-    <li>(ICLR'24) Licheng Wen, et al. DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models. <a href="https://arxiv.org/pdf/2309.16292"></a> <a href="https://pjlab-adg.github.io/DiLu/"></a> </li>  
+    <li>(ICLR'24) Licheng Wen, et al. DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models. <a href="https://arxiv.org/pdf/2309.16292">📚</a> <a href="https://pjlab-adg.github.io/DiLu/">🌍</a> </li>  
   </ul>
 </details>
