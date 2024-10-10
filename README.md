@@ -32,23 +32,24 @@ Topic 5: <b>[Learning about Auto driving](#auto-drive)</b>
   <summary><b>Topic 3: Learning about LLM agents</b><a name="llm-agent"></a></summary>
   <ul>
     <li>(COLM'24) Tianhua Tao, et al. CRYSTAL: Illuminating LLM Abilities on Language and Code. <a href="https://openreview.net/attachment?id=kWnlCVcp6o&name=pdf">📚</a> <a href="https://www.llm360.ai/#crystal">🌍</a> </li>  
-    <li>(COLM'24) Qingyun Wu, et al. AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations.<a href="https://openreview.net/attachment?id=BAakY1hNKS&name=pdf">📚</a> <a href="https://github.com/microsoft/autogen">🌍</a> </li>  
-    <li>(ECCV'24) Runsen Xu, et al. PointLLM: Empowering Large Language Models to Understand Point Clouds.<a href="https://arxiv.org/pdf/2308.16911">📚</a> <a href="https://github.com/OpenRobotLab/PointLLM">🌍</a> </li>  
+    <li>(COLM'24) Qingyun Wu, et al. AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations. <a href="https://openreview.net/attachment?id=BAakY1hNKS&name=pdf">📚</a> <a href="https://github.com/microsoft/autogen">🌍</a> </li>  
+    <li>(ECCV'24) Runsen Xu, et al. PointLLM: Empowering Large Language Models to Understand Point Clouds. <a href="https://arxiv.org/pdf/2308.16911">📚</a> <a href="https://github.com/OpenRobotLab/PointLLM">🌍</a> </li>  
+    <li>(ICML'24 <b>Oral</b>) Ziniu Hu, et al. SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code. <a href="https://openreview.net/attachment?id=gAyzjHw2ml&name=pdf">📚</a> </li>  
   </ul>
 </details>
 
 <details>
   <summary><b>Topic 4: Learning about Text-to-image/video</b><a name="t2iv"></a></summary>
   <ul>
-    <li>(COLM'24) Abhay Zala, et al. DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning.<a href="https://openreview.net/attachment?id=NV8yRJRET1&name=pdf">📚</a> <a href="https://diagrammergpt.github.io/">🌍</a> </li>  
-    <li>(COLM'24) Han Lin, et al. VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning.<a href="https://openreview.net/attachment?id=sKNIjS2brr&name=pdf">📚</a> <a href="https://videodirectorgpt.github.io/">🌍</a> </li>  
+    <li>(COLM'24) Abhay Zala, et al. DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning. <a href="https://openreview.net/attachment?id=NV8yRJRET1&name=pdf">📚</a> <a href="https://diagrammergpt.github.io/">🌍</a> </li>  
+    <li>(COLM'24) Han Lin, et al. VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning. <a href="https://openreview.net/attachment?id=sKNIjS2brr&name=pdf">📚</a> <a href="https://videodirectorgpt.github.io/">🌍</a> </li>  
   </ul>
 </details>
 
 <details>
   <summary><b>Topic 5: Learning about Auto driving</b><a name="auto-drive"></a></summary>
   <ul>
-    <li>(COLM'24) Jiageng Mao, et al. A Language Agent for Autonomous Driving.<a href="https://openreview.net/attachment?id=UPE6WYE8vg&name=pdf">📚</a> <a href="https://usc-gvl.github.io/Agent-Driver/">🌍</a> </li>  
+    <li>(COLM'24) Jiageng Mao, et al. A Language Agent for Autonomous Driving. <a href="https://openreview.net/attachment?id=UPE6WYE8vg&name=pdf">📚</a> <a href="https://usc-gvl.github.io/Agent-Driver/">🌍</a> </li>  
     <li>(ICLR'24) Licheng Wen, et al. DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models. <a href="https://arxiv.org/pdf/2309.16292">📚</a> <a href="https://pjlab-adg.github.io/DiLu/">🌍</a> </li>  
   </ul>
 </details>
