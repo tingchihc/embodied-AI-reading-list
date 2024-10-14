@@ -5,3 +5,17 @@
 5. <b>Future work</b>: Propose at least one possible extension of the paper. This might be a fix to a weakness you identified (e.g. a modified model or loss function) or you might propose how the techniques developed in the paper could be applied in some novel way for a different task. You should not, however, simply rephrase or repeat the future work suggested by the paper itself. Instead, think critically about how you might extend the paper as a researcher.
 
 Credit from Professor Chris Thomas in Virginia Tech 
+
+Template:
+
+```
+<details>
+  <ul>
+    <li>Summary: </li>  
+    <li>Relation to prior work: </li>  
+    <li>Strengths: </li>
+    <li>Weaknesses: </li>
+    <li>Future work: </li>
+  </ul>
+</details>
+```
