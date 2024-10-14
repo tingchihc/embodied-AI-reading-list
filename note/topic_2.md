@@ -12,11 +12,7 @@
 
 <details>
   <ul>
-    <li>Summary: </li>  
-    <li>Relation to prior work: </li>  
-    <li>Strengths: </li>
-    <li>Weaknesses: </li>
-    <li>Future work: </li>
+    <li>Summary: OpenScene is a zero-shot approach to 3D scene understanding that co-embeds dense 3D point features wuth image pixels and text. The authors are inspired from the CLIP. They propose a CLIP feature space co-embed with 3D geometry and 2D image with text.</li>
   </ul>
 </details>
 
