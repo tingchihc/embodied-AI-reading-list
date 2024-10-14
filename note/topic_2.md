@@ -4,11 +4,7 @@
 
 <details>
   <ul>
-    <li>Summary: </li>  
-    <li>Relation to prior work: </li>  
-    <li>Strengths: </li>
-    <li>Weaknesses: </li>
-    <li>Future work: </li>
+    <li>Summary: The authors propose a #D scene understanding(3D semantic and instance segmentation) indoor dataset. We can use this dataset for 3 tasks: (1) <b>Functionality segmentation</b>: given an input point cloud, the task is to predic the instance masks and affordance label, (2) <b>Task-drivenaffordance grounding</b>: given an input point cloud and a task description D (e.g., “open the door”, “turn on the ceiling light”), the goal is to predict the instance mask of the functional interactive element and the affordance label. , and (3) <b>Motion estimation</b>. </li>  
   </ul>
 </details>
 
