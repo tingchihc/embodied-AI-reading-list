@@ -12,7 +12,7 @@
   </ul>
 </details>
 
-### COLM'24) Han Lin, et al. VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning.  
+### (COLM'24) Han Lin, et al. VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning.  
 
 <details>
   <ul>
