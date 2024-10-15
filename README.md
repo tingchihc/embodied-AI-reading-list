@@ -59,5 +59,6 @@ Topic 6: <b>[Diffusion for Robotics and RL](#dif-RL)</b>
   <summary><b>Diffusion for Robotics and RL</b><a name="dif-RL"></a></summary>
   <ul>
     <li>(SIGGRAPH Asia'24) Agon Serifi, et al. Robot Motion Diffusion Model: Motion Generation for Robotic Characters. <a href="https://la.disneyresearch.com/wp-content/uploads/RobotMDM_red.pdf">📚</a> </li>  
+    <li>(NeurIPS'23) Biao Jiang, et al. MotionGPT: Human Motion as a Foreign Language. <a href="https://arxiv.org/pdf/2306.14795">📚</a> <a href="https://github.com/OpenMotionLab/MotionGPT">🌍</a> </li>
   </ul>
 </details>
