@@ -7,6 +7,7 @@ Topic 2: <b>[Learning about 3D scene representation](#3d-scene-rep)</b>
 Topic 3: <b>[Learning about LLM agents](#llm-agent)</b>  
 Topic 4: <b>[Learning about Text-to-image/video](#t2iv)</b>  
 Topic 5: <b>[Learning about Auto driving](#auto-drive)</b>  
+Topic 6: <b>[Diffusion for Robotics and RL](#dif-RL)</b>  
 
 <details>
   <summary><b>Topic 1: Learning about 3D reconstruction and scene rendering</b><a name="nerf"></a></summary>
@@ -51,5 +52,12 @@ Topic 5: <b>[Learning about Auto driving](#auto-drive)</b>
   <ul>
     <li>(COLM'24) Jiageng Mao, et al. A Language Agent for Autonomous Driving. <a href="https://openreview.net/attachment?id=UPE6WYE8vg&name=pdf">📚</a> <a href="https://usc-gvl.github.io/Agent-Driver/">🌍</a> </li>  
     <li>(ICLR'24) Licheng Wen, et al. DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models. <a href="https://arxiv.org/pdf/2309.16292">📚</a> <a href="https://pjlab-adg.github.io/DiLu/">🌍</a> </li>  
+  </ul>
+</details>
+
+<details>
+  <summary><b>Diffusion for Robotics and RL</b><a name="dif-RL"></a></summary>
+  <ul>
+    <li>(SIGGRAPH Asia'24) Agon Serifi, et al. Robot Motion Diffusion Model: Motion Generation for Robotic Characters. <a href="https://la.disneyresearch.com/wp-content/uploads/RobotMDM_red.pdf">📚</a> </li>  
   </ul>
 </details>
