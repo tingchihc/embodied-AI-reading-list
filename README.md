@@ -62,3 +62,7 @@ Topic 6: <b>[Diffusion for Robotics and RL](#dif-RL)</b>
     <li>(NeurIPS'23) Biao Jiang, et al. MotionGPT: Human Motion as a Foreign Language. <a href="https://arxiv.org/pdf/2306.14795">📚</a> <a href="https://github.com/OpenMotionLab/MotionGPT">🌍</a> </li>
   </ul>
 </details>
+
+# Other Resource  
+
+1. <a href="https://github.com/ActiveVisionLab/Awesome-LLM-3D">Awesome-LLM-3D</a>  
