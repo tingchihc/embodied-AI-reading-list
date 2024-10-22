@@ -74,9 +74,10 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 
 # Other Resource  
 
-1. <a href="https://github.com/ActiveVisionLab/Awesome-LLM-3D">Awesome-LLM-3D</a>  
-2. <a href="https://github.com/mbreuss/diffusion-literature-for-robotics">Diffusion-Literature-for-Robotics</a>  
-3. <a href="https://github.com/opendilab/awesome-diffusion-model-in-rl">Awesome Diffusion Model in RL</a>
+1. <a href="https://github.com/ActiveVisionLab/Awesome-LLM-3D">Awesome-LLM-3D</a>
+2. <a href="https://github.com/Hannibal046/Awesome-LLM">Awesome-LLM</a>  
+3. <a href="https://github.com/mbreuss/diffusion-literature-for-robotics">Diffusion-Literature-for-Robotics</a>  
+4. <a href="https://github.com/opendilab/awesome-diffusion-model-in-rl">Awesome Diffusion Model in RL</a>
 
 # Userful Tools
 
