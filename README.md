@@ -68,4 +68,8 @@ Topic 6: <b>[Diffusion for Robotics and RL](#dif-RL)</b>
 
 1. <a href="https://github.com/ActiveVisionLab/Awesome-LLM-3D">Awesome-LLM-3D</a>  
 2. <a href="https://github.com/mbreuss/diffusion-literature-for-robotics">Diffusion-Literature-for-Robotics</a>  
-3. <a href="https://github.com/opendilab/awesome-diffusion-model-in-rl">Awesome Diffusion Model in RL</a>  
+3. <a href="https://github.com/opendilab/awesome-diffusion-model-in-rl">Awesome Diffusion Model in RL</a>
+
+# Userful Tools
+
+1. <a href="https://github.com/isl-org/Open3D?tab=readme-ov-file">Open3D</a>  
