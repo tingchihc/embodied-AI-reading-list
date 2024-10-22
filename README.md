@@ -34,6 +34,7 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 <details>
   <summary><b>Topic 3: Learning about LLM agents</b><a name="llm-agent"></a></summary>
   <ul>
+    <li>(arxiv) Michael S. Ryoo, et al. xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs. <a href="https://arxiv.org/pdf/2410.16267">📚</a> <a href="https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html">🌍</a> </li>
     <li>(COLM'24) Tianhua Tao, et al. CRYSTAL: Illuminating LLM Abilities on Language and Code. <a href="https://openreview.net/attachment?id=kWnlCVcp6o&name=pdf">📚</a> <a href="https://www.llm360.ai/#crystal">🌍</a> </li>  
     <li>(COLM'24) Qingyun Wu, et al. AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations. <a href="https://openreview.net/attachment?id=BAakY1hNKS&name=pdf">📚</a> <a href="https://github.com/microsoft/autogen">🌍</a> </li>  
     <li>(ECCV'24) Runsen Xu, et al. PointLLM: Empowering Large Language Models to Understand Point Clouds. <a href="https://arxiv.org/pdf/2308.16911">📚</a> <a href="https://github.com/OpenRobotLab/PointLLM">🌍</a> </li>  
