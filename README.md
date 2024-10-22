@@ -72,7 +72,7 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
   </ul>
 </details>
 
-# Other Resource  
+# Other Resources  
 
 1. <a href="https://github.com/ActiveVisionLab/Awesome-LLM-3D">Awesome-LLM-3D</a>
 2. <a href="https://github.com/Hannibal046/Awesome-LLM">Awesome-LLM</a>  
