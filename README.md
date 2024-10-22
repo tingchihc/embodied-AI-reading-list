@@ -8,6 +8,7 @@ Topic 3: <b>[Learning about LLM agents](#llm-agent)</b>
 Topic 4: <b>[Learning about Text-to-image/video](#t2iv)</b>  
 Topic 5: <b>[Learning about Auto driving](#auto-drive)</b>  
 Topic 6: <b>[Diffusion for Robotics and RL](#dif-RL)</b>  
+Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 
 <details>
   <summary><b>Topic 1: Learning about 3D reconstruction and scene rendering</b><a name="nerf"></a></summary>
@@ -61,6 +62,13 @@ Topic 6: <b>[Diffusion for Robotics and RL](#dif-RL)</b>
   <ul>
     <li>(SIGGRAPH Asia'24) Agon Serifi, et al. Robot Motion Diffusion Model: Motion Generation for Robotic Characters. <a href="https://la.disneyresearch.com/wp-content/uploads/RobotMDM_red.pdf">📚</a> </li>  
     <li>(NeurIPS'23) Biao Jiang, et al. MotionGPT: Human Motion as a Foreign Language. <a href="https://arxiv.org/pdf/2306.14795">📚</a> <a href="https://github.com/OpenMotionLab/MotionGPT">🌍</a> </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Topic 7: Benchmarks: simulators, environments, datasets</b><a name="#benchmark"></a></summary>
+  <ul>
+    <li>(NeurIPS'24) Tianbao Xie, et al. OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments. <a href="https://arxiv.org/pdf/2404.07972">📚</a> <a href="https://os-world.github.io/">🌍</a> </li>  
   </ul>
 </details>
 
