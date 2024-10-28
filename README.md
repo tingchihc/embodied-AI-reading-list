@@ -1,3 +1,5 @@
+# Embodied-AI  
+
 This repository offers a brief summary of essential papers and blogs on embodied AI, alongside a categorized collection of 3D scene representation, LLM agents papers and useful code repositories for starting your own project.
 
 # Table of Contents  
