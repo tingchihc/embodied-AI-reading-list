@@ -36,6 +36,7 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 <details>
   <summary><b>Topic 3: Learning about LLM agents</b><a name="llm-agent"></a></summary>
   <ul>
+    <li>(arxiv) Yuhang Liu, et al. InfiGUIAgent: AMultimodalGeneralist GUI Agent with Native Reasoning and Reflection. <a href="https://arxiv.org/pdf/2501.04575">📚</a> </li>
     <li>(TMLR'22) Scott Reed, et al. A Generalist Agent. <a href="https://arxiv.org/pdf/2205.06175">📚</a> </li>
     <li>(arxiv) Michael S. Ryoo, et al. xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs. <a href="https://arxiv.org/pdf/2410.16267">📚</a> <a href="https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html">🌍</a> </li>
     <li>(COLM'24) Tianhua Tao, et al. CRYSTAL: Illuminating LLM Abilities on Language and Code. <a href="https://openreview.net/attachment?id=kWnlCVcp6o&name=pdf">📚</a> <a href="https://www.llm360.ai/#crystal">🌍</a> </li>  
