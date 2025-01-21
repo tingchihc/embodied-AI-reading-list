@@ -87,7 +87,8 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 4. <a href="https://github.com/opendilab/awesome-diffusion-model-in-rl">Awesome Diffusion Model in RL</a>
 5. <a href="https://github.com/Thinklab-SJTU/Awesome-LLM4AD">Awesome-LLM4AD</a>  
 6. <a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics">Awesome-LLM-Robotics</a>
-7. <a href="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List">Embodied_AI_Paper_List</a>  
+7. <a href="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List">Embodied_AI_Paper_List</a>
+8. <a href="https://github.com/annika-thomas/MIT-PALS?tab=readme-ov-file">MIT Perception and Localization Seminar</a>  
 
 # Userful Tools
 
