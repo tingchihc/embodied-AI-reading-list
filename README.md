@@ -94,7 +94,8 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 6. <a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics">Awesome-LLM-Robotics</a>
 7. <a href="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List">Embodied_AI_Paper_List</a>
 8. <a href="https://github.com/annika-thomas/MIT-PALS?tab=readme-ov-file">MIT Perception and Localization Seminar</a>
-9. <a href="https://github.com/ga642381/speech-trident">speech-trident</a>  
+9. <a href="https://github.com/ga642381/speech-trident">speech-trident</a>
+10. <a href="https://github.com/BaiShuanghao/my_arXiv_daily">my_arXiv_daily</a>  
 
 # Userful Tools
 
