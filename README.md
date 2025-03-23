@@ -93,7 +93,8 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 5. <a href="https://github.com/Thinklab-SJTU/Awesome-LLM4AD">Awesome-LLM4AD</a>  
 6. <a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics">Awesome-LLM-Robotics</a>
 7. <a href="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List">Embodied_AI_Paper_List</a>
-8. <a href="https://github.com/annika-thomas/MIT-PALS?tab=readme-ov-file">MIT Perception and Localization Seminar</a>  
+8. <a href="https://github.com/annika-thomas/MIT-PALS?tab=readme-ov-file">MIT Perception and Localization Seminar</a>
+9. <a href="https://github.com/ga642381/speech-trident">speech-trident</a>  
 
 # Userful Tools
 
@@ -101,4 +102,3 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 2. <a href="https://github.com/OpenGVLab/LLaMA-Adapter">LLaMA-Adapter</a>
 3. <a href="https://github.com/docling-project/docling">docling</a>  
 4. <a href="https://github.com/deven367/writes-like-you">writes-like-you</a>
-5. 
