@@ -98,4 +98,7 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 # Userful Tools
 
 1. <a href="https://github.com/isl-org/Open3D?tab=readme-ov-file">Open3D</a>
-2. <a href="https://github.com/OpenGVLab/LLaMA-Adapter">LLaMA-Adapter</a>  
+2. <a href="https://github.com/OpenGVLab/LLaMA-Adapter">LLaMA-Adapter</a>
+3. <a href="https://github.com/docling-project/docling">docling</a>  
+4. <a href="https://github.com/deven367/writes-like-you">writes-like-you</a>
+5. 
