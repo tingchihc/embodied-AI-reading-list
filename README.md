@@ -58,6 +58,7 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 <details>
   <summary><b>Topic 5: Learning about Auto driving</b><a name="auto-drive"></a></summary>
   <ul>
+    <li>(Technical report) Wayve. GAIA-2: Pushing the Boundaries of Video Generative Models for Safer Assisted and Automated Driving. <a href="https://drive.google.com/file/d/1L_FwiQS0KvrzERaYeG08AA1GO5HpIMfq/view">📚</a> <a href="https://wayve.ai/thinking/gaia-2/">🌍</a></li>
     <li>(COLM'24) Jiageng Mao, et al. A Language Agent for Autonomous Driving. <a href="https://openreview.net/attachment?id=UPE6WYE8vg&name=pdf">📚</a> <a href="https://usc-gvl.github.io/Agent-Driver/">🌍</a> </li>  
     <li>(ICLR'24) Licheng Wen, et al. DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models. <a href="https://arxiv.org/pdf/2309.16292">📚</a> <a href="https://pjlab-adg.github.io/DiLu/">🌍</a> </li>
     <li>(ICCV'23) Maximilian Bernhard, et al. MapFormer: Boosting Change Detection by Using Semantic Pre-change Information. <a href="https://arxiv.org/pdf/2303.17859">📚</a> <a href="https://github.com/mxbh/mapformer">🌍</a> </li> 
