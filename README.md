@@ -85,6 +85,10 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
   </ul>
 </details>
 
+# Courses  
+- MIT (6.5940, F24) TinyML and Efficient Deep Learning Computing [URL](https://hanlab.mit.edu/courses/2024-fall-65940)
+- Stanford (CS 329S, W22) Machine Learning Systems Design [URL](https://stanford-cs329s.github.io/)  
+
 # Other Resources  
 
 1. <a href="https://github.com/ActiveVisionLab/Awesome-LLM-3D">Awesome-LLM-3D</a>
