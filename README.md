@@ -87,7 +87,8 @@ Topic 7: <b>[Benchmarks: simulators, environments, datasets](#benchmark)</b>
 
 # Courses  
 - MIT (6.5940, F24) TinyML and Efficient Deep Learning Computing [URL](https://hanlab.mit.edu/courses/2024-fall-65940)
-- Stanford (CS 329S, W22) Machine Learning Systems Design [URL](https://stanford-cs329s.github.io/)  
+- Stanford (CS 329S, W22) Machine Learning Systems Design [URL](https://stanford-cs329s.github.io/)
+- UT Austin Advances in Deep Learning [URL](https://ut.philkr.net/advances_in_deeplearning/)  
 
 # Other Resources  
 
